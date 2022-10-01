@@ -5,16 +5,16 @@
       "text": "test",
       "other": "no-show",
       "day": "monday",
-      "reminder": false
+      "reminder": true
     },
     {
       "text": "Test4",
       "day": "Wednesday",
-      "reminder": true,
+      "reminder": false,
       "id": 3
     },
     {
-      "text": "Test5",
+      "text": "Task6",
       "day": "Thursday",
       "reminder": true,
       "id": 4
